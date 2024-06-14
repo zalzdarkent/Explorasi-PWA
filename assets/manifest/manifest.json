@@ -1,0 +1,22 @@
+{
+    "name": "Portofolio",
+    "short_name": "Zalz",
+    "start_url": "../../index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2196f3",
+    "form_factor": "phone",
+    "icons": [
+        {
+            "src": "../icon/tree.png",
+            "sizes": "360x360",
+            "type": "image/png"
+        },
+        {
+            "src": "../icon/lion.jpg",
+            "sizes": "360x360",
+            "type": "image/png",
+            -"purpose": "maskable"
+        }
+    ]
+}
